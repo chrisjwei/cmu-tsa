@@ -38,7 +38,7 @@
 		// slideshow on / off
 		autoplay	: false,
 		// time between transitions for the slideshow
-		interval	: 500000
+		interval	: 600000
     };
 	
 	$.JMSlideshow.prototype 	= {
