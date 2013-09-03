@@ -21,7 +21,7 @@ overflow: hidden;
 }
 
 .onecol, .twocol, .threecol, .fourcol, .fivecol, .sixcol, .sevencol, .eightcol, .ninecol, .tencol, .elevencol {
-margin-right: 3.5%;
+margin-right: 3.8%;
 float: left;
 min-height: 1px;
 }
@@ -63,7 +63,7 @@ width: 74.05%;
 }
 
 .row .tencol {
-width: 82.7%;
+width: 85%;
 }
 
 .row .elevencol {
