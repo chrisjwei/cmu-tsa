@@ -46,7 +46,7 @@ gem 'therubyracer'
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
 #Ruby Version
-ruby '1.9.3'
+ruby '1.9.3	'
 
 # Refinery CMS
 gem 'refinerycms', '~> 2.0.0'

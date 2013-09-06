@@ -13,7 +13,7 @@ module Refinery
       belongs_to :photo, :class_name => '::Refinery::Image'
       
       def self.list
-      	return ['President', 'Vice President', 'Secretary', 'Treasurer', 'PR Head', 'Service Chair', 'Culture Chair', 'IM Coordinator', 'Graphics Chair', 'Historian', 'Webmaster']
+      	return ['President', 'Vice President', 'Secretary', 'Treasurer', 'PR Head', 'Service Chair', 'Culture Chair', 'IM Coordinator', 'Graphics Chair', 'Historian', 'Webmaster', 'ITASA Representative']
       end
 
     end
